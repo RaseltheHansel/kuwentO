@@ -42,7 +42,7 @@ const SAMPLE_STORIES = [
   },
   {
     id: "4",
-    title: "Ang Bundok ng Mga Diwata",
+    title: "Ang alamat ng palay",
     description:
       "Explore a magical mountain where friendly spirits protect children and grant them peaceful dreams.",
     image:
@@ -50,7 +50,7 @@ const SAMPLE_STORIES = [
     hasVoiceover: false,
     hasSignLanguage: true,
     duration: "6 min",
-    deployedBy: "Rosita Mercado",
+    deployedBy: "Virgilio Almario",
   },
   {
     id: "5",

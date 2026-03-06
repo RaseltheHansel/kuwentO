@@ -91,6 +91,131 @@ Samantala, patuloy na naglakad ang pagong nang mabagal ngunit tuloy-tuloy. Hindi
     hasVoiceover: true,
     hasSignLanguage: true,
   },
+
+ "4": {
+    title: "Ang Kuneho at ang Pagong",
+    description:
+      "Isang pabula tungkol sa isang mabilis at palalong kuneho at isang mabagal ngunit matiyagang pagong na nagkarera. Ipinapakita ng kuwento na ang tiyaga at determinasyon ay mas mahalaga kaysa sa bilis at pagmamalaki..",
+    authorName: "Traditional Filipino Folklore",
+    deployedBy: "Virgilio Almario",
+    duration: "7 min",
+    content: `Noong araw, hindi nagtatanim ng halaman at hindi nag-aalaga ng hayop ang mga tao para may makain.
+
+Umaasa lamang sila sa kalikasan.
+
+Kaya tumitira sila kung saan may pagkain.
+
+May tumitira sa mga kuweba sa bundok at nabubuhay sa bungangkahoy at nahuhuling hayop.
+
+May tumitira sa tabing-ilog at dagat at nabubuhay sa pangingisda.
+
+Tumitira sila sa isang lugar hanggang may makakain at humahanap ng ibang lugar pag wala nang makain.
+
+Kasama ng iba ang mag-asawang Banag at Danas sa paghahanap ng bagong lugar na matitirhan.
+
+Dati silang nakatira sa tabing-dagat.
+
+Ngunit sinira ng malakas na bagyo ang kanilang mga bahay sa tabing-dagat.
+
+Natatakot silang muling abutin ng bagyo.
+
+"Bakit lagi tayong lumilipat ng tirahan?" tanong ni Banag kay Danas.
+
+"Pagod na ako sa ganitong buhay.
+
+Hindi tuloy tayo magkaanak."
+
+Gusto ni Banag na humiwalay sila sa iba at mamalagi sa isang magandang pook.
+
+"Gusto kong isilang doon ang ating anak."
+
+Sinunod ni Danas ang hiling ng asawa.
+
+Pumili sila ng isang magandang pook sa bundok at doon nagtayo ng munting bahay.
+
+Tahimik ang napili nilang pook sa bundok at sagana sa prutas at hayop na makakain.
+
+May malinaw na batis sa malapit, at maraming isdang nahuhuli si Danas.
+
+Ngunit biglang dumating ang tagtuyot.
+
+Matagal na hindi umulan, at natuyo ang lupa.
+
+Namatay ang mga halaman at punongkahoy, at nawala ang mga hayop at ibon.
+
+Namatay ang mga isda sa natuyong batis.
+
+Naghanap ng pagkain sa malayo si Danas, ngunit malawak ang dumating na tagtuyot.
+
+Naglakad siya nang naglakad at nakarating sa kabilang bundok.
+
+Ngunit wala pa rin siyang makitang pagkain.
+
+Inabot ng matinding pagod si Danas sa gitna ng isang malapad na parang.
+
+Nahiga siya sa damuhan at nakatulog.
+
+Noon biglang humihip ang hangin, at sumayaw at umawit ang mga damo.
+
+Nagising at nagulat si Danas.
+
+Pinakinggan ni Danas ang awit ng mga damo.
+
+"Kami ang pag-asa ng tao, Danas.
+
+Pulutin mo ang aming mga bungang butil.
+
+Masarap na pagkain ang aming mga butil."
+
+Noon napansin ni Danas ang mga uhay ng damo.
+
+Hitik sa mga gintong butil ang bawat uhay.
+
+Pumitas siya ng isang butil at kinagat.
+
+"Bayuhin mo ang aming mga butil para maalis ang gintong balat," muling awit na masaya ng mga damo.
+
+"Iluto mo ang puting laman ng butil para lumambot at maging masarap na pagkain.
+
+Pumitas ng maraming uhay si Danas hanggang mapuno ang kaniyang sisidlan at nagmamadaling umuwi kay Banag.
+
+"May pagkain na tayo ngayon," tuwang-tuwang balita niya kay Banag.
+
+Tulad ng utos ng mga damo, inalisan nila ng balat ang mga butil at iniluto bago kinain.
+
+Kinabukasan, nagbalik sa parang si Danas. "Itanim mo ang aming butil," awit ng mga damo.
+
+"Itanim mo sa lupang pinalambot ng ulan. Alagaan mo ang mga butil na tutubo.
+
+Tuwing mag-aani ka'y maglaan ha ng mga butil para muling itanim at alagaan.
+
+Matuto kang magsaka at mag-alaga ng halaman.
+
+Sa pagsasaka ka aasa ng ikabubuhay."
+
+Biglang naramdaman ni Danas ang patak ng ulan.
+
+Nagdidilim ang langit nang tumingala siya.
+
+"Palay ang itawag mo sa iyong pananim," awit ng mga damo na lalong sumigla ang pagsayaw pagbuhos ng malakas na ulan.
+
+"lbalita mo sa ibang tao ang lahat. Ituro mo sa kanila ang pag-aalaga ng palay."
+
+Sinunod ni Danas ang mga utos ng damo.
+
+Gumawa siya ng bukid sa paligid ng bahay at pinag-aralang mabuti ang pag-aalaga ng palay.
+
+ltinuro niya sa ibang tao ang natutuhan.
+
+Lumawak nang lumawak ang mga bukid na taniman, at mula noon, naging magsasaka ang mga tao.
+
+Hindi na rin sila palipat-lipat ng tirahan.`,
+    image:
+      "/image2.png",
+    hasVoiceover: true,
+    hasSignLanguage: true,
+  },
+
 };
 
 export default function StoryDetail() {
