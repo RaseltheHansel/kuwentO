@@ -62,7 +62,7 @@ Mahabang oras siyang naghintay. Nang may mahulog na bayabas, hindi ito tumama sa
 
 Sa halip, lumipat siya ng puwesto at muling humiga, umaasang may bayabas na direktang mahuhulog sa kanyang bibig.
 
-Ngunit walang nangyari. Sa huli, wala siyang nakain at umuwi siyang gutom..`,
+Ngunit walang nangyari. Sa huli, wala siyang nakain at umuwi siyang gutom.`,
     image:
       "/image.png",
     hasVoiceover: true,
